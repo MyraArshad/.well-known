@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.myra.cv.base",
+    "sha256_cert_fingerprints":
+    ["EA:0B:84:94:63:FC:90:EB:1F:00:F1:AB:BD:45:3B:7C:C9:5F:CE:DB:B2:73:24:A6:04:6B:34:56:B4:D7:9B:83"]
+  }
+}]
